@@ -53,16 +53,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishsidagam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsidagam&layout=compact&theme=radical)
-
----
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harish-sidagam/) 
+- 💼 LinkedIn: *https://www.linkedin.com/in/harish-sidagam/*
 - ✉️ Email: *harishsidagam.s8@gmail.com*
 
 ---
