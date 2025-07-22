@@ -39,7 +39,6 @@
 `Git & GitHub` `Jupyter Notebooks` `Google Colab` `VS Code`
 
 ---
-
 ### 📂 Highlight Projects
 
 | Project No. | Title                                | Description                             |
